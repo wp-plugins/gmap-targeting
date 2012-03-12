@@ -1,4 +1,4 @@
-=== Google Map Targeting ===
+﻿=== Google Map Targeting ===
 Contributors: RealMag777
 Donate link: http://www.pluginus.net/
 Tags: google, map, post, Posts, page, plugin
@@ -46,7 +46,7 @@ R: http://pluginus.net/mea/google-map-targeting/1
 == Screenshots ==
 
 1. In admin panel
-2. In admin panel
+2. In admin panel2
 3. On front
 
 == Changelog ==
