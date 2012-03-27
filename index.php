@@ -5,7 +5,7 @@
   Plugin URI: http://pluginus.net/gmap-targeting/
   Description: Gmap your page
   Author: Rostislav Sofronov
-  Version: 1.0.1
+  Version: 1.0.2
   Author URI: http://pluginus.net/
  */
 
