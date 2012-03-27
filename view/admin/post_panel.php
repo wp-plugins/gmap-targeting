@@ -17,7 +17,7 @@
 	  <select name="gmt_map_type" onchange="gmt_overwrite_shortcode()">
 		<?php $gmt_map_type = array("ROADMAP","SATELLITE", "HYBRID", "TERRAIN") ?>
 		<?php foreach ($gmt_map_type as $maptype) : ?>
-  		<option <?= (($gmtdata['type'] == $maptype) ? "selected" : "") ?> value="<?= $maptype ?>"><?= $maptype ?></option>
+  		<option <?= ((@$gmtdata['type'] == $maptype) ? "selected" : "") ?> value="<?= $maptype ?>"><?= $maptype ?></option>
 		<?php endforeach; ?>
 	  </select><br />
 	  <?php if (empty($gmtdata['width'])): ?>
