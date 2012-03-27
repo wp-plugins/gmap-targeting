@@ -4,7 +4,7 @@ Donate link: http://www.pluginus.net/
 Tags: google, map, post, Posts, page, plugin
 Requires at least: 3.0.0
 Tested up to: 3.3.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 Set google map in post, page or everywere on your site by shortcode.
 
@@ -50,6 +50,9 @@ R: http://pluginus.net/mea/google-map-targeting/1
 3. On front
 
 == Changelog ==
+
+= 1.0.2 =
+1 bug fixed
 
 = 1.0.1 =
 Plugin release. Operate all the basic functions.
