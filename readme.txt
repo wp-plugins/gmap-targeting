@@ -1,7 +1,7 @@
 ﻿=== Google Map Targeting ===
 Contributors: RealMag777
 Donate link: http://www.pluginus.net/
-Tags: google, map, post, page, shortcode
+Tags: google maps,shortcode,map,maps,categories,post map,point,marker,list,location,address,images,geocoder,google maps,google
 Requires at least: 3.5.0
 Tested up to: 3.7.1
 Stable tag: 1.1.0
