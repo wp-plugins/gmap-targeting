@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Map Targeting v1.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-04-20 01:27:45+0000\n"
+"Last-Translator: admin <info@1245.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: index.php:87
+#@ gmap-targeting
+msgid "Loading ..."
+msgstr "Загрузка..."
+
+#: index.php:93
+#@ gmap-targeting
+msgid "Insert Google Map"
+msgstr "Вставить карту Google"
+
+#: index.php:233
+#@ gmap-targeting
+msgid "Upload"
+msgstr "Загрузить"
+
+#: index.php:273
+#@ gmap-targeting
+msgid "code partners adv"
+msgstr "партнеры"
+
+#: index.php:279
+#@ gmap-targeting
+msgid "Donate for GMap Targeting"
+msgstr "Пожертвовать на GMap Targeting"
+
+#: index.php:290
+#@ gmap-targeting
+msgid "Google Map Widget"
+msgstr "Google карты"
+
+#: index.php:293
+#@ gmap-targeting
+msgid "PluginUs.Net Google Map"
+msgstr "Google карты"
+
+#: views/admin/settings.php:5
+#@ gmap-targeting
+msgid "GMap Targeting Settings"
+msgstr "Настройки карт Google"
+
+#: views/admin/settings.php:17
+#@ gmap-targeting
+msgid "Supported custom post types"
+msgstr "Поддерживаемые типы контента"
+
+#: views/admin/settings.php:28
+#@ gmap-targeting
+msgid "Post metabox thumbnails size"
+msgstr "Размер миниатюр метабокса записи"
+
+#: views/admin/settings.php:32
+#@ gmap-targeting
+msgid "Max thumbs groups"
+msgstr "Максимальное количество групп миниатюр"
+
+#: views/admin/settings.php:36
+#@ gmap-targeting
+msgid "Hide donation button from post meta box"
+msgstr "Скрыть кнопку пожертвования из метабокса в записях"
+
+#: views/admin/settings.php:38
+#@ gmap-targeting
+msgid "Hides donation button from gallery metabox"
+msgstr "Скрывает кнопку пожертвования из метабокса галереи"
+
+#: views/admin/settings.php:42
+#@ gmap-targeting
+msgid "Save settings"
+msgstr "Сохранить настройки"
+
+#: views/admin/settings.php:48
+#@ gmap-targeting
+msgid "Want to get power and amazing WordPress theme?!"
+msgstr "Хотите получить мощную и изумительную тему Wordpress?!"
+
+#: views/shortcodes/popups/gmap_targeting.php:9
+#: views/widget/google_map_form.php:13
+#@ gmap-targeting
+msgid "Height"
+msgstr "Высота"
+
+#: views/shortcodes/popups/gmap_targeting.php:24
+#: views/widget/google_map_form.php:8
+#@ gmap-targeting
+msgid "Width"
+msgstr "Ширина"
+
+#: views/shortcodes/popups/gmap_targeting.php:28
+#@ gmap-targeting
+msgid "If map mode, you can set in %. Ex.: 100%"
+msgstr "В режиме карты можно использовать проценты. Например: 100%."
+
+#: views/shortcodes/popups/gmap_targeting.php:38
+#: views/widget/google_map_form.php:53
+#@ gmap-targeting
+msgid "Mode"
+msgstr "Тип"
+
+#: views/shortcodes/popups/gmap_targeting.php:42
+#: views/widget/google_map_form.php:58
+#@ gmap-targeting
+msgid "Map"
+msgstr "Интерактивная карта"
+
+#: views/shortcodes/popups/gmap_targeting.php:43
+#: views/widget/google_map_form.php:57
+#@ gmap-targeting
+msgid "Image"
+msgstr "Картинка"
+
+#: views/shortcodes/popups/gmap_targeting.php:56
+#@ gmap-targeting
+msgid "Location mode"
+msgstr "Режим определения местоположения"
+
+#: views/shortcodes/popups/gmap_targeting.php:60
+#: views/shortcodes/popups/gmap_targeting.php:105
+#: views/widget/google_map_form.php:22
+#: views/widget/google_map_form.php:46
+#@ gmap-targeting
+msgid "Address"
+msgstr "Адрес"
+
+#: views/shortcodes/popups/gmap_targeting.php:61
+#: views/widget/google_map_form.php:23
+#@ gmap-targeting
+msgid "Coordinates"
+msgstr "Координаты"
+
+#: views/shortcodes/popups/gmap_targeting.php:75
+#@ gmap-targeting
+msgid "Marker Latitude"
+msgstr "Широта"
+
+#: views/shortcodes/popups/gmap_targeting.php:79
+#: views/shortcodes/popups/gmap_targeting.php:95
+#@ gmap-targeting
+msgid "Point on which the viewport will be centered."
+msgstr "Укажите, где будет расположен центр карты"
+
+#: views/shortcodes/popups/gmap_targeting.php:91
+#@ gmap-targeting
+msgid "Marker Longitude"
+msgstr "Долгота"
+
+#: views/shortcodes/popups/gmap_targeting.php:126
+#: views/widget/google_map_form.php:68
+#@ gmap-targeting
+msgid "Zoom"
+msgstr "Масштаб"
+
+#: views/shortcodes/popups/gmap_targeting.php:131
+#@ gmap-targeting
+msgid "Zoom value from 1 to 19 where 19 is the greatest and 1 the smallest."
+msgstr "Масштаб от 1 до 19 (19 - самый крупный, 1 - самый мелкий)."
+
+#: views/shortcodes/popups/gmap_targeting.php:141
+#@ gmap-targeting
+msgid "Enable Scrollwheel"
+msgstr "Разрешить масштабирование мышкой"
+
+#: views/shortcodes/popups/gmap_targeting.php:145
+#@ gmap-targeting
+msgid "Set to false to disable zooming with your mouses scrollwheel."
+msgstr "Поставьте галочку, чтобы разрешить масштабирование колесиком мышки"
+
+#: views/shortcodes/popups/gmap_targeting.php:154
+#@ gmap-targeting
+msgid "Maptype"
+msgstr "Тип карты"
+
+#: views/shortcodes/popups/gmap_targeting.php:158
+#: views/widget/google_map_form.php:88
+#@ gmap-targeting
+msgid "ROADMAP"
+msgstr "Карта"
+
+#: views/shortcodes/popups/gmap_targeting.php:159
+#: views/widget/google_map_form.php:89
+#@ gmap-targeting
+msgid "SATELLITE"
+msgstr "Спутник"
+
+#: views/shortcodes/popups/gmap_targeting.php:160
+#: views/widget/google_map_form.php:90
+#@ gmap-targeting
+msgid "HYBRID"
+msgstr "Гибрид"
+
+#: views/shortcodes/popups/gmap_targeting.php:161
+#: views/widget/google_map_form.php:91
+#@ gmap-targeting
+msgid "TERRAIN"
+msgstr "Рельеф"
+
+#: views/shortcodes/popups/gmap_targeting.php:175
+#@ gmap-targeting
+msgid "Enable Marker"
+msgstr "Показывать маркер"
+
+#: views/shortcodes/popups/gmap_targeting.php:179
+#@ gmap-targeting
+msgid "Set to false to disable display a marker in the viewport."
+msgstr "Поставьте галочку, чтобы показывать маркер на карте"
+
+#: views/shortcodes/popups/gmap_targeting.php:188
+#@ gmap-targeting
+msgid "Enable Popup"
+msgstr "Показывать информацию об адресе"
+
+#: views/shortcodes/popups/gmap_targeting.php:192
+#@ gmap-targeting
+msgid "If true the info window for this marker will be shown when the map finished loading. If html is empty this option will be ignored."
+msgstr "Поставьте галочку, чтобы отображать на карте информационное окошко. Если информация не будет добавлена, то окошко не отобразится."
+
+#: views/shortcodes/popups/gmap_targeting.php:202
+#@ gmap-targeting
+msgid "Marker is draggable"
+msgstr "Разрешить перетаскивать маркер"
+
+#: views/shortcodes/popups/gmap_targeting.php:206
+#@ gmap-targeting
+msgid "Set marker draggable"
+msgstr "Разрешить изменять положение маркера"
+
+#: views/shortcodes/popups/gmap_targeting.php:215
+#@ gmap-targeting
+msgid "Popup Content"
+msgstr "Информация об адресе"
+
+#: views/widget/google_map_form.php:3
+#@ gmap-targeting
+msgid "Title"
+msgstr "Название"
+
+#: views/widget/google_map_form.php:18
+#@ gmap-targeting
+msgid "Location Mode"
+msgstr "Режим определения местоположения"
+
+#: views/widget/google_map_form.php:34
+#@ gmap-targeting
+msgid "Latitude"
+msgstr "Широта"
+
+#: views/widget/google_map_form.php:39
+#@ gmap-targeting
+msgid "Longitude"
+msgstr "Долгота"
+
+#: views/widget/google_map_form.php:84
+#@ gmap-targeting
+msgid "Map type"
+msgstr "Тип карты"
+
+#: views/widget/google_map_form.php:108
+#@ gmap-targeting
+msgid "Display Marker"
+msgstr "Показывать маркер"
+
+#: views/widget/google_map_form.php:119
+#@ gmap-targeting
+msgid "Display popup"
+msgstr "Показывать всплывающее окошко"
+
+#: views/widget/google_map_form.php:130
+#@ gmap-targeting
+msgid "Display scrollwheel"
+msgstr "Разрешить масштабирование мышкой"
+
+#: views/widget/google_map_form.php:135
+#@ gmap-targeting
+msgid "Popup text"
+msgstr "Информация об адресе"
+
